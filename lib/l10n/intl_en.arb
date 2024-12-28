@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "authentication": "Authentication",
+  "sign_in": "Sign in",
+  "sign_up": "Sign up",
+  "sign_out": "Sign out",
+  "sign_in_with_google": "Sign in with Google",
+  "beomytech": "BeomyTech",
+  "example_email": "example@email.com",
+  "password": "Password",
+  "confirm_password": "Confirm Password",
+  "c_continue": "Continue",
+  "please_verify_your_identity_with_face_id": "Please verify your identity with Face ID",
+  "please_verify_your_identity_with_touch_id": "Please verify your identity with Touch ID",
+  "to_log_in_use_biometric_authentication": "To log in, use biometric authentication",
+  "hello": "Hello"
+}
